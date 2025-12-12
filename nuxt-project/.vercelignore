@@ -1,0 +1,7 @@
+.nuxt
+dist
+node_modules
+.git
+.gitignore
+README.md
+package-lock.json
