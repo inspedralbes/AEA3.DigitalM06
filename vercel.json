@@ -1,4 +1,4 @@
 {
   "buildCommand": "cd nuxt-project && npm install && npm run build",
-  "outputDirectory": "nuxt-project/.output/public"
+  "outputDirectory": "nuxt-project/.vercel/output/static"
 }
